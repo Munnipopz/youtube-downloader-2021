@@ -35,3 +35,12 @@ A Telegram bot made with [Pyrogram Smart Plugins](https://docs.pyrogram.org/topi
 ## License
 
 AGPL-3.0-or-later
+
+### Deploy
+
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/Munnipopz/youtube-downloader-2021">
+     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+
